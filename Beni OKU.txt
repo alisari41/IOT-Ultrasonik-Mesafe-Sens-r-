@@ -1,0 +1,8 @@
+PROJE ÇİZİMLERİ HAKKINDA NOT :
+
+
+Bu çalışma içerisinde görülen tüm şekil, devre elemanları ve şemalar MS Visio üzerinden Ferhat YÖNDEMLİ ve ALİ SARI tarafından tek tek el ile çizilmiştir.
+
+Hiçbir şekil, devre elemanlanı ve şema internetten veya başka bir kaynaktan hazır olarak alınmamıştır.
+
+Visio dosyaları detaylı olarak incelenir ise çizilen bütün şekil, devre elemanları ve şemaların hazır olarak alınmadığı anlaşılır.
